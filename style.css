@@ -1,0 +1,44 @@
+body {
+	background-color: lightblue;
+}
+h1 {
+	font-family: Arial, Helvetica, sans-serif;
+	color:pink;
+	background-color:black;
+}
+h2 {
+	font-family: "Lucida Console", "Courier New", monospace;
+	color:red;
+}
+h3 {
+	font-family: "Times New Roman", Times, serif;
+	color:purple;
+}
+h4 {
+	font-family: copperplate, papyrus, fantasy;
+	color:orange;
+}
+h5 {
+	font-family: Brush Script MT, Lucida Handwriting, cursive;
+	color:green;
+	background-color:lightgreen;
+}
+h6 {
+	font-family: Monaco, monospace;
+	color:yellow;
+	background-color:darkblue;
+	font-size:20px;
+}
+table,th,td {
+	border:1px solid;
+}
+table {
+	width: 90%;
+}
+th {
+	height: 50px;
+}
+img {
+	border-radius:10px;
+	opacity:0.7;
+}
